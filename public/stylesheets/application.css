@@ -5,11 +5,26 @@ body {
 
 h1 {
     color: lightcoral;
-    font-size: 36px;
+    font-size: 24px;
+}
+
+h2 {
+    color: lightsalmon;
+    font-size: 24px;
+}
+
+h3 {
+    color: lightskyblue;
+    font-size: 24px;
+}
+
+h4 {
+    color: lightsteelblue;
+    font-size: 24px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
     color: black;
 }
 

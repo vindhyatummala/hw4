@@ -1,2 +1,3 @@
 class Post < ApplicationRecord
-end
+    has_one_attached :uploaded_image
+  end
