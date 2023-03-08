@@ -24,7 +24,7 @@
           </ul>
           <ul class="navbar-nav mb-2 mb-lg-0">
             <% if @current_user %>
-              Logged in as: <%= @current_user["username"] %> | <a href="/logout"> Logout</a>
+              <span>Logged in as: <%= @current_user["username"] %> | <a href="/logout"> Logout</a></span>
             <% else %>
               <a href="/login" class="btn btn-secondary">Login</a>   
               <a href="/users/new" class="btn btn-secondary">Sign Up</a>

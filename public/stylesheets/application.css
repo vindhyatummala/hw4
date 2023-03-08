@@ -4,22 +4,22 @@ body {
 }
 
 h1 {
-    color: lightcoral;
-    font-size: 24px;
+    color: black;
+    font-size: 36px;
 }
 
 h2 {
-    color: lightsalmon;
-    font-size: 24px;
+    color: black;
+    font-size: 30px;
 }
 
 h3 {
-    color: lightskyblue;
-    font-size: 24px;
+    color: black;
+    font-size: 28px;
 }
 
 h4 {
-    color: lightsteelblue;
+    color: black;
     font-size: 24px;
 }
 
@@ -29,6 +29,6 @@ p {
 }
 
 p a {
-    color: lightblue;
+    color: blue;
     text-decoration: none;
 }
